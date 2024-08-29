@@ -19,6 +19,6 @@ I'm Aditya Rajput, a third-year student at IIIT Ranchi, and I'm passionate about
 ![](https://github-profile-trophy.vercel.app/?username=adi-rajput&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adi-rajput&icon=1&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=adi-rajput&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
